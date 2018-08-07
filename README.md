@@ -1,2 +1,2 @@
 # Snaked
-Snake game advaned
+Snake game advanced
